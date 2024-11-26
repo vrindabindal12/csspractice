@@ -1,0 +1,18 @@
+body{
+    background-color: lightcyan;
+}
+h1{
+    color: indigo;
+}
+img{
+    background-color: rgb(185, 22, 22);
+}
+img:hover{
+    background-color: blue;
+}
+.banana{
+    background-color: aqua;
+}
+.fairy{
+    background-color: beige;
+}
